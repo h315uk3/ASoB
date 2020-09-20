@@ -17,7 +17,7 @@ see .vscode/
 
 and setup default python interpreter.
 
-1. 'Shift + Ctrl + P'
-1. input `python select interpreter'
-1. select ASoB/
-1. select .venv/bin/python
+1. `Shift + Ctrl + P`
+1. input `python select interpreter`
+1. select `ASoB/`
+1. select `.venv/bin/python`
